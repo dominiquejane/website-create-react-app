@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.eef76729.css",
-  "main.css.map": "static/css/main.eef76729.css.map",
-  "main.js": "static/js/main.85ada34e.js",
-  "main.js.map": "static/js/main.85ada34e.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.ff7d087c.css",
+  "main.css.map": "static/css/main.ff7d087c.css.map",
+  "main.js": "static/js/main.c319d91b.js",
+  "main.js.map": "static/js/main.c319d91b.js.map",
+  "static/media/ColorsOfAutumn.ttf": "static/media/ColorsOfAutumn.7e636a93.ttf",
+  "static/media/Magnolia.ttf": "static/media/Magnolia.e0328727.ttf",
+  "static/media/PaladinFLF.ttf": "static/media/PaladinFLF.e9d1a35f.ttf",
+  "static/media/crazy_rascals.ttf": "static/media/crazy_rascals.d53638d8.ttf",
+  "static/media/dllogo.svg": "static/media/dllogo.324c20e1.svg",
+  "static/media/jellyka_saint_andrews_queen.ttf": "static/media/jellyka_saint_andrews_queen.fe5c0ab7.ttf"
 }
